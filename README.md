@@ -10,3 +10,7 @@ Que les permite al los usuarios solo realizar consulta, que es lo requerido para
 
 **Grupo Consultores:**
 Que les permite realizar modificaciones en algunos modulos refrentes a los labores que ellos realizan
+
+# Requerimientos
+
+Se generan dos usuarios con cada perfil generado
